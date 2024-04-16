@@ -1,4 +1,4 @@
-### Jogo Mata Mosquito
+# Jogo Mata Mosquito
 Este projeto consiste no desenvolvimento de um jogo chamado "Mata Mosquito". O objetivo do jogo é simples: o jogador deve matar mosquitos que aparecem na tela antes que o tempo acabe e sem perder todas as suas vidas.
 
 ## Funcionalidades Principais:
@@ -9,9 +9,10 @@ Difícil: 10 segundos
 Chuck Norris: 7,5 segundos (nível "Chuck Norris")
 Vidas: O jogador começa com três vidas. Se o jogador não conseguir matar todos os mosquitos dentro do tempo limite perde todas as suas vidas e o jogo acaba.
 
-## Modo de Jogo: O jogo é desenvolvido para um único jogador.
+### Modo de Jogo: 
+O jogo é desenvolvido para um único jogador.
 
-## Captura de Tela:
+### Captura de Tela:
 <span><img src="./imagens/MataMosquito.png"></span>
 
 ## Ferramentas de Desenvolvimento:
