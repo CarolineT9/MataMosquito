@@ -11,8 +11,8 @@ Vidas: O jogador começa com três vidas. Se o jogador não conseguir matar todo
 
 ## Modo de Jogo: O jogo é desenvolvido para um único jogador.
 
-Captura de Tela:
-Captura de tela do Jogo Mata Mosquito
+## Captura de Tela:
+<span><img src="./imagens/MataMosquito.png"></span>
 
 ## Ferramentas de Desenvolvimento:
 <img src="./imagens/html.png">
